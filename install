@@ -137,6 +137,7 @@ update() {
   download fzf-$version-linux_armv6.tar.gz
   download fzf-$version-linux_armv7.tar.gz
   download fzf-$version-linux_arm64.tar.gz
+  download fzf-$version-linux_amd64.tar.gz
   download fzf-$version-freebsd_amd64.tar.gz
   download fzf-$version-openbsd_amd64.tar.gz
   download fzf-$version-windows_amd64.zip
